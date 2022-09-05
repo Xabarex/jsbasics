@@ -1,0 +1,17 @@
+JS BASICS
+===========================================
+1. js basics (z nodem)
+2. html, css basics
+3. uzywanie js'a w stronie html
+4. lokalne hostowanie, fetch, json, Promise 
+4.1 hostowanie przez wbudowany server node (http.server) i przez plugin 'live server'
+5. React (przez script import) 
+5.1 React (z web packiem, pierwszy node project) 
+6. preprocessory css (LESS/SCSS/SASS)
+7. Express, Postman 
+8. aplikacja fullstack
+dalej: Angular, Bootstrap, Canvas, SVG 
+gdzies po drodze: Git
+
+
+
